@@ -193,11 +193,11 @@ The business could use city-level performance monitoring to identify opportuniti
 
 ### 1. Executive Sales Overview
 
-![Executive Sales Overview](03_Dashboard_Screenshots/Executive_Sales_Overview.png)
+![Executive Sales Overview](Executive_Sales_Overview.png)
 
 ### 2. Geographic & Customer Insights
 
-![Geographic and Customer Insights](03_Dashboard_Screenshots/Geographic_Customer_Insights.png)
+![Geographic and Customer Insights](Geographic_Customer_Insights.png)
 
 
 ## Dashboard Video Demonstration
