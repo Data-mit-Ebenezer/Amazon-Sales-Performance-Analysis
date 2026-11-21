@@ -204,4 +204,4 @@ The business could use city-level performance monitoring to identify opportuniti
 
 A 45-second walkthrough of the interactive Power BI dashboard, showcasing its visualizations and reporting features.
 
-🎥 [Watch the Power BI Dashboard Demo](05_Dashboard_Demo/Amazon_Dashboard_Demo.mp4)
+🎥 [Watch the Power BI Dashboard Demo](Amazon_Dashboard_Demo.mp4)
