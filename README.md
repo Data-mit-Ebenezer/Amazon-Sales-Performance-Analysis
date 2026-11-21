@@ -205,3 +205,13 @@ The business could use city-level performance monitoring to identify opportuniti
 A 45-second walkthrough of the interactive Power BI dashboard, showcasing its visualizations and reporting features.
 
 🎥 [Watch the Power BI Dashboard Demo](Amazon_Dashboard_Demo.mp4)
+
+
+## Download Power BI Report
+
+The complete interactive Power BI dashboard is available for download.
+
+📊 [Download Amazon Sales Performance Dashboard (.pbix)](PowerBI/Amazon%20Sales%20Performance%20Dashboard.pbix)
+
+Open the downloaded file using Microsoft Power BI Desktop to explore the dashboard and its visualizations.
+
